@@ -17,6 +17,9 @@
 - **Template Engine:** Thymeleaf
 - **Script/Style:** jQuery, Bootstrap 5
 
+### Style
+- GPT-5.6 Sol : html, css 스타일은 codex 로 구현
+
 ---
 
 ## ✨ Key Features (주요 기능)
